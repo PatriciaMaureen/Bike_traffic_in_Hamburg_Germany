@@ -4,7 +4,8 @@
 The dataset includes comprehensive traffic data from all locations in Hamburg where bicycle traffic is recorded by infrared detectors 24 hours a day, every day of the year. This data collection effort ensures continuous and detailed monitoring of bicycle traffic patterns across the city.
 
 # Goal
-My goal was to gain predict bike raffic in Hamburg on a daily basis. Therefore I combined it with weather data. I wanted to explore the following points:
+My goal was to predict bike traffic in Hamburg on a daily (hourly) basis. Therefore I combined it with weather data. 
+I wanted to explore the following points:
 1. Do more people cycle during the week than the weekend?
 2. When are the rushhours during the day? 
 3. Do more people cycle in summer than in winter?
