@@ -1,5 +1,7 @@
 # Bike traffic in Hamburg (Germany)
 
+This is my final Project for the Data Analytics Bootcamp.
+
 # Context
 The dataset includes comprehensive traffic data from all locations in Hamburg where bicycle traffic is recorded by infrared detectors 24 hours a day, every day of the year. This data collection effort ensures continuous and detailed monitoring of bicycle traffic patterns across the city.
 
